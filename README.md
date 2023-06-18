@@ -2,7 +2,6 @@
 
 - EN
 The simplest example of getting a referral ID in a telegram bot.
-
 - RU
 Простейший пример получения реферального ID в телеграм-боте.
 
